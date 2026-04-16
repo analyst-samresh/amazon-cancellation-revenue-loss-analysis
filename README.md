@@ -87,15 +87,18 @@ The goal is not to build a model — it is to understand the hidden pattern, sca
 
 ## Project Structure
 ```
-├── Amazon-raw-data-1.xlsx # Raw dataset
-├── Initial_analysis.ipynb # Main analysis notebook
-├── Initial-Analysis-Report.pdf # Full findings report
-├── Project-Tracking.pdf # Project scope and tracking
-├── charts/
-│ ├── chart1_cancellation_revenue_overview.png
-│ ├── chart2_top10_states.png
-│ ├── chart3_monthly_trend.png
-│ └── chart4_top3_categories.png
+amazon-cancellation-revenue-loss-analysis/
+├── Charts/
+│   ├── chart1_cancellation_revenue_overview.png
+│   ├── chart2_top10_states.png
+│   ├── chart3_monthly_trend.png
+│   └── chart4_top3_categories.png
+├── Dataset/
+│   └── Amazon-raw-data-1.xlsx
+├── Notebook/
+│   └── Initial_analysis.ipynb
+├── Initial Analysis Report.pdf
+├── Project Tracking.pdf
 └── README.md
 ```
 
