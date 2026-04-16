@@ -1,4 +1,4 @@
-# Amazon India — Cancellation & Revenue Loss Analysis (2022)
+# Amazon India— Cancellation & Revenue Loss Analysis(2022)
 
 The analysis is focused on identifying the scale of financial impact - cancellation and revenue loss across Amazon India's full year 2022 sales data.ales data.
 
@@ -86,6 +86,7 @@ The goal is not to build a model — it is to understand the hidden pattern, sca
 ---
 
 ## Project Structure
+```
 ├── Amazon-raw-data-1.xlsx # Raw dataset
 ├── Initial_analysis.ipynb # Main analysis notebook
 ├── Initial-Analysis-Report.pdf # Full findings report
@@ -96,7 +97,7 @@ The goal is not to build a model — it is to understand the hidden pattern, sca
 │ ├── chart3_monthly_trend.png
 │ └── chart4_top3_categories.png
 └── README.md
-
+```
 
 ---
 
@@ -112,6 +113,6 @@ The goal is not to build a model — it is to understand the hidden pattern, sca
 ## Author
 
 **Samresh Mandal** — Data Analyst  
-LinkedIn : [https://www.linkedin.com/in/samresh-mandal/](#) 
+LinkedIn : [https://www.linkedin.com/in/samresh-mandal/](#) |
 GitHub : [https://github.com/analyst-samresh?tab=repositories](#)  
 *Analysis completed: March 2026*
